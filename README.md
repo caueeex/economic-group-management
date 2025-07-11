@@ -33,7 +33,7 @@ Sistema completo de gerenciamento de grupos econômicos, marcas, unidades e func
 
 ### 1. Clone o Repositório
 ```bash
-git clone <repository-url>
+git clone https://github.com/caueeex/economic-group-management.git
 cd economic-group-management
 ```
 
